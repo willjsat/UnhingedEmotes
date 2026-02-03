@@ -1,0 +1,11 @@
+## Interface: 120000
+## Title: Twitch Emotes Unhinged Edition
+## Author: Angeels - TarrenMill (EU)
+## Notes: Twitch Emote pack for Unhinged-TarrenMill, originally compiled by Plenyx.
+## Version: 1.0.0
+## IconTexture: Interface\Addons\UnhingedTwitchEmotes\Emotes\Unhinged\ZasedInfinite.tga
+## DefaultState: enabled
+## Dependencies: TwitchEmotes
+## Category: Unhinged
+
+UnhingedTwitchEmotes.lua

@@ -4,10 +4,6 @@ UnhingedTwitchEmotes = {
 
 function UnhingedTwitchEmotes:init()
 	local emotes1 = {
-		["plenGa"] = {
-			["Name"] = "plenGa",
-			["Path"] = UnhingedTwitchEmotes.Path .. "plenGa.tga:28:28",
-		},
 		["syrup"] = {
 			["Name"] = "syrup",
 			["Path"] = UnhingedTwitchEmotes.Path .. "syrup.tga:28:28",
@@ -87,10 +83,6 @@ function UnhingedTwitchEmotes:init()
 		["ZasedDerail"] = {
 			["Name"] = "ZasedDerail",
 			["Path"] = UnhingedTwitchEmotes.Path .. "ZasedDerail.tga:28:28",
-		},
-		["plenMensius"] = {
-			["Name"] = "plenMensius",
-			["Path"] = UnhingedTwitchEmotes.Path .. "plenMensius.tga:28:28",
 		},
 		["BondageTree"] = {
 			["Name"] = "BondageTree",
@@ -510,3 +502,4 @@ frame:SetScript(
 		end
 	end
 );
+
